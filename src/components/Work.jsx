@@ -24,7 +24,7 @@ const Work = () => {
                              <a href="https://wildscape.onrender.com">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                              </a>
-                             <a href="/">
+                             <a href="https://github.com/rominroy/WildScape.git">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                              </a>
                             </div>
@@ -42,7 +42,7 @@ const Work = () => {
                              <a href="https://lauraecom.onrender.com">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                              </a>
-                             <a href="/">
+                             <a href="https://github.com/rominroy/LauraEcom.git">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                              </a>
                             </div>
@@ -60,7 +60,7 @@ const Work = () => {
                              <a href="/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                              </a>
-                             <a href="/">
+                             <a href="https://github.com/rominroy/portfolio.git">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                              </a>
                             </div>
