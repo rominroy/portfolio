@@ -39,7 +39,7 @@ const Work = () => {
                 HTML,CSS3,JS Application
                         </span>
                             <div className='pt-8 text-center'>
-                             <a href="https://lauraecom.onrender.com">
+                             <a href="https://fantastic-croquembouche-345f9d.netlify.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                              </a>
                              <a href="https://github.com/rominroy/LauraEcom.git">
@@ -75,7 +75,7 @@ const Work = () => {
                 HTML,CSS3,JS Application
                         </span>
                             <div className='pt-8 text-center'>
-                             <a href="https://lauraecom.onrender.com">
+                             <a href="https://fantastic-croquembouche-345f9d.netlify.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                              </a>
                              <a href="/">
