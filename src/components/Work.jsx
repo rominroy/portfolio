@@ -2,6 +2,7 @@ import React from 'react'
 import wildscape from '../assets/wildscape.png'
 import laura from '../assets/laura.png'
 import portfolio from '../assets/portfolio.png'
+import weather from '../assets/weather.png'
 const Work = () => {
   return (
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
