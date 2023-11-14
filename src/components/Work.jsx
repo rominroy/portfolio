@@ -75,7 +75,7 @@ const Work = () => {
                 HTML,CSS,ReactJS Application
                         </span>
                             <div className='pt-8 text-center'>
-                             <a href="https://mellifluous-bublanina-c39c1c.netlify.app">
+                             <a href="https://mellifluous-bublanina-c39c1c.netlify.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                              </a>
                              <a href="https://github.com/rominroy/weatherApp">
